@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am a passionate about AI, cyber security.
+# I am a passionate about AI, cyber security.
 
 I am currently polishing my skills ...
 <!--
